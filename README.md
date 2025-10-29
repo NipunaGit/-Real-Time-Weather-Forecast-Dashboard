@@ -29,3 +29,5 @@ This project showcases a real-time weather forecasting dashboard built in Power 
 
 ### 💡 Outcome
 This project demonstrates the integration of real-time API data into a business intelligence environment, combining data engineering, analytics, and visualization skills. It highlights the ability to design scalable, automated dashboards that deliver live insights to end-users.
+
+[](https://github.com/NipunaGit/Real-Time-Weather-Forecast-Dashboard/blob/main/image.png)
